@@ -1,2 +1,2 @@
 # MLH-hackathon-Website
-HackWithVizag.io
+mlhhackathonvizag.io
